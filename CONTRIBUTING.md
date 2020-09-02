@@ -1,5 +1,3 @@
-# CONTRIBUTING.MD
-
 Alright MilSpouse Coders, we’re going to break you into the magic of GitHub and contributing to a repo!
 
 ## Step 1: Fork the repository
