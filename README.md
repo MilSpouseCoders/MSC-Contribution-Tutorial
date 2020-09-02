@@ -1,55 +1,9 @@
-<<<<<<< Updated upstream
-Carly Wuz Here
-||||||| constructed merge base
-=======
 # What is this repo is about?
->>>>>>> Stashed changes
-
-<<<<<<< Updated upstream
-And Here...
-||||||| constructed merge base
-=======
 -   This repo is geared toward first time contributors. There is no coding involved, only adding to a text file.
 -   An editor of some type will be needed as well as an established GitHub account (it’s free and if you’re a coder, you need one.)
 -   There are multiple methods to using GitHub and Git, we’re going to try and keep it as simple as possible.
->>>>>>> Stashed changes
 
-<<<<<<< Updated upstream
-Jen Wuz Also Here
-||||||| constructed merge base
-=======
 # Who is it geared toward?
->>>>>>> Stashed changes
-
-<<<<<<< Updated upstream
-Carly wuz here....again....
-||||||| constructed merge base
-
-
-#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Tutorials Using Other Tools
-
-| <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a> 
-=======
 -   This repo is geared toward first time contributors, specifically our MilSpouse Coders family.
 
 # Links to:
@@ -72,4 +26,3 @@ Carly wuz here....again....
 ## Tutorials Using Other Tools
 
 <a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>
->>>>>>> Stashed changes
