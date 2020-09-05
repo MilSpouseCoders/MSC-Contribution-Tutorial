@@ -1,75 +1,61 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
-|---|---|
+<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+Making your first contribution using Github Desktop
+======================================================
 
-Reading articles & watching tutorials can help, but what comes better than actually doing the stuff without messing up anything. This project aims at providing guidance & simplifying the way rookies make their first contribution. Remember the more relaxed you are the better you learn. If you are looking for making your first contribution just follow the simple steps below. We promise you, it will be fun.
+## 1. If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
 
-If you don't have GitHub Desktop on your machine, [install it](https://desktop.github.com/).
+## 2. Fork this repository
 
-If you're using a version of GitHub desktop before 1.0, [refer this tutorial](github-desktop-old-version-tutorial.md).
-
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-
-## Fork this repository
-
-Fork this repo by clicking on the fork button on the top right of this page.
+* Fork this repo by clicking on the fork button on the top right of this page.
 This will create of copy of this repository in your account.
+<img style="left" src="assets/fork.png" alt="fork this repository" />
 
-## Clone the repository
+## 3. Clone the repository to your machine
 
-Now clone this repo to your machine.
+* IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
 
-IMPORTANT: DO NOT CLONE THE ORIGINAL REPO. Go to your fork and clone it.
-
-To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
-
+* To clone the repo, click on "Clone or Download" and then click on "Open in Desktop".
 <img style="left;" src="assets/dt1-clonetodesktop.png" alt="clone this repository" />
 
-A pop up window will open. Click on "Open GitHubDesktop.exe".
-
+* A pop up window will open. Click on "Open GitHubDesktop.exe".
 <img style="left;" src="assets/dt1-open-githubdesktop.png" alt="clone this repository" />
 
-After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
-
+* After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
 <img style="left;" src="assets/dt1-downloaded.png" alt="clone this repository" />
 
-Now you have copied the contents of the first-contributions repository in github to your computer.
+* Now you have copied the contents of the first-contributions repository in github to your computer.
 
-## Create a branch
+## 4. Create a branch
 
-Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
-
+* Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
 <img style="left;" src="assets/dt1-create-branch.png" alt="make a branch" />
 
-Name your branch <add-your-name>. For example, "add-james-smith"
-
+* Name your branch <add-your-github-handle>. For example, "add-james-smith"
 <img style="left;" src="assets/dt1-create-branch-name.png" alt="name your branch" />
 
-Click on `Create branch`
+* Click on `Create branch`
 
-## Make necessary changes and commit those changes
+## 5. Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, scroll to the bottom of the page and add your name to it, then save the file.
+* Now open `Contributors.md` file in a text editor, scroll to the bottom of the page and add your GitHub profile link to it, then save the file.
 
-Example: If your name is James Smith, It should look like this.
-
-\[James Smith](https://github.com/jamessmith)
-
-You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
+* Example: If your GitHub handle is jamessmith, It should look like this:
 
 <img style="left;" src="assets/dt1-status.png" alt="check status" />
 
-Now commit those changes:
+* You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
 
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field.
+* Now commit those changes:
 
-Replace `<your-name>` with your name.
+* Write the message "Add `<your-github-handle>` to Contributors list" in the *summary* field.
 
-Click on the button that says `Commit to add-your-name`.
+* Replace `<your-github-handle>` with your GitHub handle.
+
+* Click on the button that says `Commit to add-your-github-handle`.
 
 <img style="left;" src="assets/dt1-commit1.png" alt="commit your changes" />
 
@@ -77,7 +63,7 @@ At the bottom, you can see that the commit has been created.
 
 <img style="left;" src="assets/dt1-commit2.png" alt="commit your changes" />
 
-## Push changes to github
+## 6. Push changes to github
 
 Click on File->Options and sign-in to Github.com. Type in your Github username and password.
 
@@ -87,7 +73,7 @@ Click the `Publish` button on the top right.
 
 <img style="left;" src="assets/dt1-publish1.png" alt="push your changes" />
 
-## Submit your changes for review
+## 7. Submit your changes for review
 
 If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
 
@@ -103,26 +89,11 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://roshanjossey.github.io/first-contributions/#social-share).
+[//]: # (TODO: Social media something for our members to share)
+Celebrate your contribution and share it with your friends and followers by going to:  
 
-You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
+[//]: # (TODO: slack invite to MSC)
+You can join our slack team in case you need any help or have any questions. [Join slack team]
 
+[//]: # (TODO: MSC-curated contribution list)
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in web app](https://roshanjossey.github.io/first-contributions/#project-list).
-
-### [Additional material](additional-material/git_workflow_senarios/additional-material.md)
-
-
-## Tutorials Using Other Tools
-
-|<a href="README.md"><img alt="Command Line" src="http://cdn.osxdaily.com/wp-content/uploads/2014/08/terminal-icon-osx-150x150.png" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|<a href="github-windows-intellij-tutorial.md"><img alt="IntelliJ IDEA" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" width=100></a>|
-|---|---|---|---|---|---|
-|[Command Line](README.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|[IntelliJ IDEA](github-windows-intellij-tutorial.md)|
-
-## Self-Promotion
-
-If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
-[Twitter](https://twitter.com/sudo__bangbang) and
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="assets/saasgrids-banner.png" width="500"></a>
