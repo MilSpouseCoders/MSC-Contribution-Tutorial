@@ -45,6 +45,7 @@ This will create of copy of this repository in your account.
 
 * Example: If your GitHub handle is jamessmith, It should look like this:
 
+[//]: # (TODO: new image of what ours will look like)
 <img style="left;" src="assets/dt1-status.png" alt="check status" />
 
 * You can see that there are changes to Contributors.md and they have been added to the Github Desktop.
