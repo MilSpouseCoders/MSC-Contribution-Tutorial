@@ -27,7 +27,7 @@ This will create of copy of this repository in your account.
 * After you click on "Open GitHubDesktop.exe" the contents will be downloaded to your computer.
 <img style="left;" src="assets/dt1-downloaded.png" alt="clone this repository" />
 
-* Now you have copied the contents of the first-contributions repository in github to your computer.
+* Now you have copied the contents of the hacktoberfest_2020 repository in github to your computer.
 
 ## 4. Create a branch
 
