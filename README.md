@@ -19,7 +19,7 @@
 
 # This project was inspired by:
 
-[First-Contributions](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
+[First-Contributions](https://github.com/firstcontributions/first-contributions)
 
 # [License](https://github.com/codercarly/Hacktoberfest_2020#license)
 
