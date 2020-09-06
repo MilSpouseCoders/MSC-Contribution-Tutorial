@@ -8,17 +8,16 @@
 
 -   This repo is geared toward first time contributors, specifically our MilSpouse Coders family.
 
-# Links to:
+# Let's get started!
 
--   Installing Git on your machine
--   Creating a GitHub account
--   GitHub Desktop
--   Visual Studio Code
--   Udacity instructional Course
--   GitHub Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf
+* We are going to provide tutorials for two methods of contributing to this repository: Command Line and GitHub Desktop.  For either method you will need a GitHub account: https://github.com/
 
-# This project was inspired by:
+* If you prefer to work from the command line, see this tutorial: https://github.com/MilSpouseCoders/Hacktoberfest_2020/command-line-tutorial.md
 
+* If you prefer to use the GitHub Desktop App, see this tutorial: https://github.com/MilSpouseCoders/Hacktoberfest_2020/github-desktop-tutorial.md
+
+This project was inspired by:
 [First-Contributions](https://github.com/firstcontributions/first-contributions)
 
 This project is licensed under the terms of the MIT license ([License](https://github.com/MilSpouseCoders/Hacktoberfest_2020#license)).
+
