@@ -21,10 +21,4 @@
 
 [First-Contributions](https://github.com/firstcontributions/first-contributions)
 
-#### _If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
-
-## Tutorials Using Other Tools
-
-<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>
-
 This project is licensed under the terms of the MIT license ([License](https://github.com/MilSpouseCoders/Hacktoberfest_2020#license)).
