@@ -12,9 +12,7 @@
 
 * We are going to provide tutorials for two methods of contributing to this repository: Command Line and GitHub Desktop.  For either method you will need a GitHub account: https://github.com/
 
-* If you prefer to work from the command line, see this tutorial: https://github.com/MilSpouseCoders/Hacktoberfest_2020/command-line-tutorial.md
-
-* If you prefer to use the GitHub Desktop App, see this tutorial: https://github.com/MilSpouseCoders/Hacktoberfest_2020/github-desktop-tutorial.md
+* Please see [Contributing](CONTRIBUTING.md) for guidelines on how to contribute to this repository.
 
 This project was inspired by:
 [First-Contributions](https://github.com/firstcontributions/first-contributions)
