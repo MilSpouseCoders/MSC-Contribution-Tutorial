@@ -18,4 +18,3 @@ This project was inspired by:
 [First-Contributions](https://github.com/firstcontributions/first-contributions)
 
 This project is licensed under the terms of the MIT license ([License](https://github.com/MilSpouseCoders/Hacktoberfest_2020#license)).
-
