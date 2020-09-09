@@ -16,6 +16,14 @@
 
 ## Step 2: Set up your computer to use Git
 
+-   (TODO: Add instructions)
+
+## Step 3: Check out the tutorials
+
+-   (TODO: Add instructions)
+
+## Step 4: Contribute to this Repo
+
 -   Please see [Contributing](CONTRIBUTING.md) for guidelines on how to contribute to this repository.
 
 This project was inspired by:
