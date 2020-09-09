@@ -10,9 +10,11 @@
 
 # Let's get started!
 
-## Step 1: Create a GitHub account!
+## Step 1: Create a GitHub account
 
 -   We are going to provide tutorials for two methods of contributing to this repository: Command Line and GitHub Desktop. For either method you will need a GitHub account: https://github.com/
+
+## Step 2: Set up your computer to use Git
 
 -   Please see [Contributing](CONTRIBUTING.md) for guidelines on how to contribute to this repository.
 
