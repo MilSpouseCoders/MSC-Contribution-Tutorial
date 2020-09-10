@@ -12,19 +12,25 @@
 
 ## Step 1: Create a GitHub account
 
--   We are going to provide tutorials for two methods of contributing to this repository: Command Line and GitHub Desktop. For either method you will need a GitHub account: https://github.com/
+-   We are going to provide tutorials for two methods of contributing to this repository: Command Line and GitHub Desktop. For either method you will need a [GitHub account](https://github.com/).
+-   GitHub accounts are free! Yay! There is a paid version, but if you're just starting out, free is what matters.
 
-## Step 2: Set up your computer to use Git
+## Step 2: Download Visual Studio Code
 
--   (TODO: Add instructions)
+-   There are many code/text edititors and IDE's (integrated development environment) out there, but for this project and others we are recommending you download [Visual Studio Code](https://code.visualstudio.com/download).
+-   Why are we asking you to do this? Well, if you need help with something and you're using an editor we haven't used before, we're not going to be much help! That being said, if you're comfortable using another code editor, by all means, use it! We all have our favorites! Just remember, the Google search engine is your best friend for troubleshooting!
+-   There is another platform called Visual Studio, which is an IDE for Windows machines only (sorry Mac users!), Visual Studio Code (VSC) is multi-platform. You can download it for your appropriate machine [here](https://code.visualstudio.com/download).
 
-## Step 3: Check out the tutorials
+## Step 3: Set up Git on your personal computer
 
--   (TODO: Add instructions)
+-   Here is where things might start to get overwhelming, but we're letting you know that it's ok, we got you! (Cause' MilSpouses stick together! HOOAH!) If you have any questions at all, contact us or make a post on the MilSpouse Coders Study Group page!
+-   The easiest way to set things up is through the command line interface. Don't let that scare you! We promise it will become your best friend! Check out [CodeCademy's](https://www.codecademy.com/articles/git-setup) instructions on how to set up Git on your personal machine.
+-   Remember, if you have any questions/concerns/fears, ask the Study Group!
 
 ## Step 4: Contribute to this Repo
 
--   Please see [Contributing](CONTRIBUTING.md) for guidelines on how to contribute to this repository.
+-   You made it to step 4! You're the bomb! Pat yourself on the back because Step 3 is a beast!
+-   The next step in the process is to learn how to use Git and GitHub and contributed to open source code. So for the next steps in the process, it's time to check out the [Contributing](CONTRIBUTING.md) file for guidelines on how to contribute to this repository.
 
 This project was inspired by:
 [First-Contributions](https://github.com/firstcontributions/first-contributions)
