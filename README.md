@@ -1,7 +1,7 @@
 # What is this repo is about?
 
 -   This repo is geared toward first time contributors. There is no coding involved, only adding to a text file.
--   An editor of some type will be needed as well as an established GitHub account (it’s free and if you’re a coder, you need one.)
+-   An editor of some type will be needed as well as an established GitHub account (it’s free and if you’re a coder, you need one.) Don't worry, we'll guide you through it in the steps below.
 -   There are multiple methods to using GitHub and Git, we’re going to try and keep it as simple as possible.
 
 # Who is it geared toward?
@@ -30,7 +30,7 @@
 ## Step 4: Contribute to this Repo
 
 -   You made it to step 4! You're the bomb! Pat yourself on the back because Step 3 is a beast!
--   The next step in the process is to learn how to use Git and GitHub and contribute to open source code. So now, go check out the [Contributing](CONTRIBUTING.md) file for guidelines on how to contribute to this repository.
+-   The next step in the process is to learn how to use Git and GitHub and contribute to open source code. So now, go check out the [CONTRIBUTING.MD](CONTRIBUTING.md) file for guidelines on how to contribute to this repository.
 
 ##
 
