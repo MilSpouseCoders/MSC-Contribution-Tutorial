@@ -30,7 +30,9 @@
 ## Step 4: Contribute to this Repo
 
 -   You made it to step 4! You're the bomb! Pat yourself on the back because Step 3 is a beast!
--   The next step in the process is to learn how to use Git and GitHub and contributed to open source code. So for the next steps in the process, it's time to check out the [Contributing](CONTRIBUTING.md) file for guidelines on how to contribute to this repository.
+-   The next step in the process is to learn how to use Git and GitHub and contribute to open source code. So now, go check out the [Contributing](CONTRIBUTING.md) file for guidelines on how to contribute to this repository.
+
+##
 
 This project was inspired by:
 [First-Contributions](https://github.com/firstcontributions/first-contributions)
