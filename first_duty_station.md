@@ -6,6 +6,6 @@ This is the file you will contribute to! Below you will see a list of user names
 
 #
 
-codercarly - Ft. Bragg
-toanhtran - San Diego Naval Base
-ttran - Sasebo, Japan
+-   codercarly - Ft. Bragg
+-   toanhtran - San Diego Naval Base
+-   ttran - Sasebo, Japan
