@@ -1,18 +1,20 @@
 <img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="200" />
 
-# What is this repo is about?
+# About this Repo
 
--   This repo is geared toward first time contributors. There is no coding involved, only adding to a text file.
--   An editor of some type will be needed as well as an established GitHub account (it’s free and if you’re a coder, you need one.) Don't worry, we'll guide you through it in the steps below.
--   There are multiple methods to using GitHub and Git, we’re going to try and keep it as simple as possible.
+This repo is geared toward first time contributors. There is no coding involved, only adding to a text file.
+In this repo will will guide beginners on how to setup their personal machines with Git and how to commit changes to an open source repository.
 
 # Who is it geared toward?
 
--   This repo is geared toward first time contributors, specifically our MilSpouse Coders family.
+This repository is geared toward first time contributors, specifically our MilSpouse Coders family.
 
 # Let's get started!
 
-##
+-   For instructions on how to set things up, please go to our [SETUP](SETUP.md) file.
+-   If your machine is already setup and you're mostly familiar with Git and GitHub, please go directly to our [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+#
 
 This project was inspired by:
 [First-Contributions](https://github.com/firstcontributions/first-contributions)
