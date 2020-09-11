@@ -23,7 +23,9 @@ GitHub is an online service that stores code pushed to it from computers that ha
 -   The easiest way to set things up is through the command line interface. Don't let that scare you, we promise it will become your best friend. Check out [CodeCademy's](https://www.codecademy.com/articles/git-setup) instructions on how to set up Git on your personal machine.
 -   Remember, if you have any questions/concerns/fears, ask the Study Group!
 
-**At this point if you have Git setup and you'd prefer to use a different editor (other than Visual Studio Code), this is where you will leave this file.** - For instructions on how to contribute via the Command Line, please go [here](command-line-tutorial.md). - For instructions on how to contribute via GitHub Desktop, please go [here](github-desktop-tutorial.md).
+**At this point if you have Git setup and you'd prefer to use a different editor (other than Visual Studio Code), this is where you will leave this file.** 
+- For instructions on how to contribute via the Command Line, please go [here](command-line-tutorial.md). 
+- For instructions on how to contribute via GitHub Desktop, please go [here](github-desktop-tutorial.md).
 
 ## Step 4: Connect your GitHub account to VSC
 

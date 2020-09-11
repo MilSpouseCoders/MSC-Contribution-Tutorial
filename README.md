@@ -10,7 +10,7 @@
 
 -   This repo is geared toward first time contributors, specifically our MilSpouse Coders family.
 
-# Let's get started
+# Let's get started!
 
 ##
 
