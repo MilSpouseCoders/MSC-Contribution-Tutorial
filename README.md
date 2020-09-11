@@ -1,3 +1,5 @@
+<img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="300" />
+
 # What is this repo is about?
 
 -   This repo is geared toward first time contributors. There is no coding involved, only adding to a text file.
