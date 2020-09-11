@@ -1,4 +1,4 @@
-<img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="300" />
+<img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="200" />
 
 # What is this repo is about?
 
