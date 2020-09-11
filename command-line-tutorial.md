@@ -9,7 +9,7 @@ Be sure you have completed steps 1 - 3 in the [README.MD](README.md) file.
 
 ## 2. Fork this repository
 
-Fork this repository by clicking on the green **fork** button on the top of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020).
+Fork this repository by clicking on the **fork** button on the top right of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020).
 This will create a copy of this repository in your personal GitHub account.
 
 <img style="left" src="assets/fork.png" alt="fork this repository" width="300" />
