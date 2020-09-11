@@ -9,18 +9,18 @@ Be sure you have completed steps 1 - 3 in the [README.MD](README.md) file.
 
 ## 2. Fork this repository
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork this repository by clicking on the green **fork** button on the top of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020).
+This will create a copy of this repository in your personal GitHub account.
 
-<img style="left" src="assets/fork.png" alt="fork this repository" width="200" />
+<img style="left" src="assets/fork.png" alt="fork this repository" width="300" />
 
 ## 3. Clone the repository
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the _copy to clipboard_ icon.
+Go to your personal GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button and then click the _copy to clipboard_ icon or highlight and copy the listed url.
 
-<img style="left"  src="assets/clone.png" alt="clone this repository" width="200" />
+<img style="left"  src="assets/clone.png" alt="clone this repository" width="300" />
 
-Open a terminal and run the following git command:
+Open a Command Prompt (Windows) or Terminal (Mac )and run the following git command:
 
 ```
 git clone "url you just copied"
