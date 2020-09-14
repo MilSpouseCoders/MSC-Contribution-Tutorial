@@ -70,7 +70,7 @@ Now open `first_duty_station.md` file in a text editor, and follow the instructi
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
-<img align="left" width="450" src="assets/step5_status.png" alt="git status" />
+<img align="center" width="450" src="assets/step5_status.png" alt="git status" />
 
 Add those changes to the branch you just created using the `git add` command:
 
