@@ -68,6 +68,7 @@ Now open `first_duty_station.md` file in a text editor, and follow the instructi
 
 <img align="left" width="450" src="assets/step5_status.png" alt="git status" />
 
+
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
@@ -98,11 +99,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Pull Request` button. Click on that button.
 
-<img style="float: right;" src="assets/step7_pullrequest.png" alt="create a pull request" />
+<img style="float: right;" src="assets/step7_pullrequest.png" alt="create a pull request" width=400/>
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" />
+<img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" width=400/>
 
 Soon we'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
