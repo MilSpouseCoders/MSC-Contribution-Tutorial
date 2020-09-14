@@ -64,12 +64,13 @@ git checkout -b add-jane-smith
 
 ## 5. Make necessary changes and commit those changes
 
-Now open `first_duty_station.md` file in a text editor, and follow the instructions on what to do. Now, save the file.
+Now open `first_duty_station.md` file in a text editor, and follow the instructions on what to do. 
 
-<img align="left" width="450" src="assets/step5_status.png" alt="git status" />
-
+*Be sure to save the file.*
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
+<img align="left" width="450" src="assets/step5_status.png" alt="git status" />
 
 Add those changes to the branch you just created using the `git add` command:
 
