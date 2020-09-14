@@ -18,7 +18,9 @@ This will create a copy of this repository in your personal GitHub account.
 
 Go to your personal GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button and then click the _copy to clipboard_ icon or highlight and copy the listed url.
 
-<img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" /><img align="right" width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
+<img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" /><img align="left" width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
+
+
 
 Open a Command Prompt (Windows) or Terminal (Mac )and run the following git command:
 
