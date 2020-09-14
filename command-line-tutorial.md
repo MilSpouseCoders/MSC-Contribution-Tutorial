@@ -20,6 +20,8 @@ Go to your personal GitHub account and click on the forked copy of the repositor
 
 <img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" />
 
+<img align="left" width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
+
 Open a Command Prompt (Windows) or Terminal (Mac )and run the following git command:
 
 ```
@@ -27,8 +29,6 @@ git clone "url you just copied"
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
-
-<img align="left" width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
 
 For example:
 
