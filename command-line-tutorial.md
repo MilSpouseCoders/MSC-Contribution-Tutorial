@@ -98,19 +98,20 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## 7. Submit your changes for review
 
-If you go to the forked copy of the main repository on your GitHub account, you'll see a `Pull Request` tab at the top.
+Now go to your personal GitHub account, click *repositories*, and select the repository you're working with. You'll see a `Pull Request` tab at the top.
 
 <img style="float: right;" src="assets/step7_pullrequest1.png" alt="create a pull request" width=600/>
 
-Click on that tab and then click the green Create Pull Request button.
+Click on that tab and then click the green *Create Pull Request* button.
 
 <img style="float: right;" src="assets/step7_pullrequest.png" alt="create a pull request" width=600/>
 
-Make sure it has a subject typed in and add any comments if necessary. Now submit the pull request.
+Make sure it has a subject typed in and add any comments if necessary. Click *Create Pull Request* one more time.
 
 <img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" width=600/>
 
-Soon we'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+That's it! 
+Soon we'll be merging all your changes into the master branch of this project. You will get a email notification once the changes have been merged.
 
 ## Where to go from here?
 
