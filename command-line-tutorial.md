@@ -20,7 +20,7 @@ Go to your personal GitHub account and click on the forked copy of the repositor
 
 <img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" />
 
-<img align="left" width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
 
 Open a Command Prompt (Windows) or Terminal (Mac )and run the following git command:
 
