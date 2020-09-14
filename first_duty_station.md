@@ -6,6 +6,6 @@ _When adding your username and duty station to the list, we ask that you add it 
 
 #
 
--   codercarly - Ft. Bragg
+-   codercarly - Fort Bragg
 -   toanhtran - San Diego Naval Base
 -   ttran - Sasebo, Japan
