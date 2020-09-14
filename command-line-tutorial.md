@@ -98,11 +98,15 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## 7. Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Pull Request` button. Click on that button.
+If you go to the forked copy of the main repository on your GitHub account, you'll see a `Pull Request` tab at the top.
+
+<img style="float: right;" src="assets/step7_pullrequest1.png" alt="create a pull request" width=600/>
+
+Click on that tab and then click the green Create Pull Request button.
 
 <img style="float: right;" src="assets/step7_pullrequest.png" alt="create a pull request" width=600/>
 
-Now submit the pull request.
+Make sure it has a subject typed in and add any comments if necessary. Now submit the pull request.
 
 <img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" width=600/>
 
