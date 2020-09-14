@@ -66,7 +66,7 @@ git checkout -b add-jane-smith
 
 Now open `first_duty_station.md` file in a text editor, and follow the instructions on what to do. Now, save the file.
 
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align="left" width="450" src="assets/step5_status.png" alt="git status" />
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -98,11 +98,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Pull Request` button. Click on that button.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="assets/step7_pullrequest.png" alt="create a pull request" />
 
 Now submit the pull request.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" />
 
 Soon we'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
