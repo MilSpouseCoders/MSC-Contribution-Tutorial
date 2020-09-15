@@ -20,75 +20,68 @@ Go to your _personal_ GitHub account and click on the forked copy of the reposit
 
 <img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" />
 
-To clone the repo, click on "Code" and then click on "Open with GitHub Desktop".
+To clone the repo, click on **Open with GitHub Desktop** button.
+
 <img style="left;" src="assets/step4_desktopclone.png" alt="clone this repository" width="300"/>
 
 At this point, if you do not have GitHub Desktop installed, install it. If it is already installed, a pop up window will ask you if you want to use GitHub Desktop to open the link, select "open" or "open link".
 
 The contents will be downloaded to your computer.
-<img style="left;" src="assets/dt1-downloaded.png" alt="clone this repository" />
+<img style="left;" src="assets/desktop_1.png" alt="clone this repository" width="500"/>
 
-Now you have copied the contents of the hacktoberfest_2020 repository in GitHub to your personal computer.
+Now you have copied the contents of the Hacktoberfest_2020 repository in GitHub to your personal computer.
 
 ## 4. Create a branch
 
-Now create a branch by clicking on the "Current branch" icon at the top and then click on "New branch":
-<img style="left;" src="assets/dt1-create-branch.png" alt="make a branch" />
+Now create a branch by clicking on the **Current Branch** icon at the top and then click on **New Branch**:
+<img style="left;" src="assets/desktop_2.png" alt="make a branch" width="500"/>
 
-Name your branch <add-your-github-handle>. For example, "add-james-smith"
-<img style="left;" src="assets/dt1-create-branch-name.png" alt="name your branch" />
+Click on **Create New Branch**
 
-Click on `Create branch`
+<img style="left;" src="assets/desktop_3.png" alt="name your branch" width="500"/>
 
-## 5. Make necessary changes and commit those changes
+Name your branch <add-your-github-handle>. For example, "add-jane-smith" and click **Create Branch** to finish.
+<img style="left;" src="assets/desktop_4.png" alt="name your branch" width="500"/>
 
-Now open `first_duty_station.md` file in a text editor, and follow the instructions on what to do.
+## 5. Make necessary changes and Commit those changes
 
-Example: If your GitHub handle is jamessmith, It should look like this:
+Now open _first_duty_station.md_ file in a text editor, and follow the instructions on what to do.
 
-[//]: # "TODO: new image of what ours will look like"
+**Be sure to save the file!**
 
-<img style="left;" src="assets/dt1-status.png" alt="check status" />
+In GitHub Desktop, the _Changes_ tab should update and the right hand side will show the file.
 
-You can see that there are changes to 'first_duty_station.md' and they have been added to the Github Desktop.
+<img style="left;" src="assets/desktop_5.png" alt="check status" width="600" />
 
-Now commit those changes:
+You can see that there are changes to _first_duty_station.md_ and they have been added to the Github Desktop. The **green** highlighted line and the **plus** to the left that shows that it's an addition to the file. If the line was **red** there would be a **minus** sign, that would mean the item is being removed from the file.
 
--   Write the message "Add `<your-github-handle>` to first_duty_station.md" in the _summary_ field.
+Now, it's time to Commit the changes to your GitHub repository.
+Write a message in the bottom left box explaining what you're committing. In this case, "add jane smith to first_duty_station.md". Then click the button below to **Commit to add-jane-smith** (that will vary based on what you named your branch).
+<img style="left;" src="assets/desktop_7.png" alt="check status" width="500" />
 
--   Replace `<your-github-handle>` with your GitHub handle.
+At the bottom left, you can see that the commit has been created.
 
--   Click on the button that says `Commit to add-your-github-handle`.
+<img style="left;" src="assets/desktop_8.png" alt="commit your changes" width="500"/>
 
-<img style="left;" src="assets/dt1-commit1.png" alt="commit your changes" />
+## 6. Push changes to GitHub
 
-At the bottom, you can see that the commit has been created.
+Next you want to push those changes to your personal GitHub account, so click **Publish branch**. If you get a message to log in to your GitHub account, do that now.
 
-<img style="left;" src="assets/dt1-commit2.png" alt="commit your changes" />
-
-## 6. Push changes to github
-
-Click on File->Options and sign-in to Github.com. Type in your Github username and password.
-
-<img style="left;" src="assets/dt1-sign-in.png" alt="log-in to Github" />
-
-Click the `Publish` button on the top right.
-
-<img style="left;" src="assets/dt1-publish1.png" alt="push your changes" />
+<img style="left;" src="assets/desktop_8.png" alt="commit your changes" width="500"/>
 
 ## 7. Submit your changes for review
 
-Now go to your personal GitHub account, click _repositories_, and select the repository you're working with. You'll see a `Pull Request` tab at the top.
+The final step is to create your pull request. You can start that here by clicking the **Create Pull Request** button.
 
-<img style="float: right;" src="assets/step7_pullrequest1.png" alt="create a pull request" width=600/>
+<img style="left;" src="assets/desktop_9.png" alt="create a pull request" width="500"/>
 
-Click on that tab and then click the green _Create Pull Request_ button.
+Your personal GitHub account will open directly to the Pull Request option on your repo. Click the green _Create Pull Request_ button.
 
-<img style="float: right;" src="assets/step7_pullrequest.png" alt="create a pull request" width=600/>
+<img style="left;" src="assets/step7_pullrequest.png" alt="create a pull request" width="500"/>
 
 Make sure it has a subject typed in and add any comments if necessary. Click _Create Pull Request_ one more time.
 
-<img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" width=600/>
+<img style="left;" src="assets/step7_pullrequest2.png" alt="submit pull request" width="500"/>
 
 That's it!
 Soon we'll be merging all your changes into the master branch of this project. You will get a email notification once the changes have been merged.
