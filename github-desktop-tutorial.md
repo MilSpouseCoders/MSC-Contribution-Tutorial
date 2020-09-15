@@ -27,6 +27,7 @@ To clone the repo, click on **Open with GitHub Desktop** button.
 At this point, if you do not have GitHub Desktop installed, install it. If it is already installed, a pop up window will ask you if you want to use GitHub Desktop to open the link, select "open" or "open link".
 
 The contents will be downloaded to your computer.
+
 <img style="left;" src="assets/desktop_1.png" alt="clone this repository" width="500"/>
 
 Now you have copied the contents of the Hacktoberfest_2020 repository in GitHub to your personal computer.
@@ -57,6 +58,7 @@ You can see that there are changes to _first_duty_station.md_ and they have been
 
 Now, it's time to Commit the changes to your GitHub repository.
 Write a message in the bottom left box explaining what you're committing. In this case, "add jane smith to first_duty_station.md". Then click the button below to **Commit to add-jane-smith** (that will vary based on what you named your branch).
+
 <img style="left;" src="assets/desktop_7.png" alt="check status" width="500" />
 
 At the bottom left, you can see that the commit has been created.
