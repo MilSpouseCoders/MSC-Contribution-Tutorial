@@ -3,7 +3,8 @@
 
 
 
-# Making your first contribution using GitHub Desktop<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">
+# Making your first contribution using GitHub Desktop
+<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">
 
 ## 1. Complete steps 1-3 in README.MD
 
