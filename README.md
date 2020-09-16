@@ -1,7 +1,8 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Generic badge](https://img.shields.io/badge/MilSpouseCoders-Beginner-blue.svg)](https://shields.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![Generic badge](https://img.shields.io/badge/PRs-Welcome-green.svg)](https://shields.io/)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 <img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="200" />
 
