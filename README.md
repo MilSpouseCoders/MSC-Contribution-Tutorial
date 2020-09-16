@@ -1,3 +1,6 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 <img style="left" src="assets/msc-Logo6inx6inText-TransparentBg.png" width="200" />
 
 # About this Repo
