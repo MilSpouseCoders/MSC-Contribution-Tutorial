@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/MilSpouseCoders-Beginner-teal.svg?logo=data:assets/msc-Logo6inx6inText-TransparentBg.png;base64)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MilSpouseCoders-Beginner-teal.svg)](https://shields.io/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![Generic badge](https://img.shields.io/badge/PRs-Welcome-green.svg)](https://shields.io/)
 [![Awesome Badges](https://img.shields.io/badge/Badges-Awesome-green.svg)](https://github.com/Naereen/badges)
