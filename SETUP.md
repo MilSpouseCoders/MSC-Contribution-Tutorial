@@ -64,6 +64,8 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 Fork this repository by clicking on the **fork** button on the top right of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020).
 
+<img style="left" src="assets/step2_fork.png" alt="step 2" width="300">
+
 This will create a copy of this repository in your personal GitHub account that you can now work with. There are open source repositories all over the place, this allows people to collaborate on programs and projects. So if you find other repositories you like, fork those and take a look at the code! The next step will tell you how to download that code onto your own machine so you can run the programs yourself.
 
 ## Step 5: Clone the Hackathon_2020 repository to your machine
