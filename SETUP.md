@@ -97,4 +97,51 @@ As soon as the cloning process is finished, you the cloned files should be avail
 
 <img style="left" img width="300" src="assets/vsc_step5.png" alt="vsc file explorer" />
 
-## Step 6:
+Click the arrow to the left of _Hacktoberfest_2020_ to look at the files. You have successfully cloned a repo to your machine!
+
+## Step 6: Create a Branch
+
+Before you do anything else, you're going to create a branch for you to work on. This way, you're not working on the master branch.
+
+In the VSC integrated terminal, create a branch using the `git checkout` command:
+
+```
+git checkout -b <add-your-new-branch-name>
+```
+
+<img style="left" img width="300" src="assets/vsc_step6_1.png" alt="checkout branch" />
+
+(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+
+This will automatically move you to your new branch. You're checking out the new branch you created! 
+You should now have 2 branches: a master branch and the branch you just created. To check type:
+
+```git branch```
+
+<img style="left" img width="300" src="assets/vsc_step6_2.png" alt="checkout branch" />
+
+A list of the branches you currently have should appear. To exit out of the branch list, hit the **"q"** on your keyboard. That will "quit" you from the window and take you back to the terminal.
+
+## Step 7: Make the necessary changes and Commit those changes
+
+Now double click on the `first_duty_station.md` file to open it up in VSC. There are instructions at the top of the file on what you need to do.
+
+**Be sure to save the file.**
+
+In the integrated terminal, the command ```git status```, you'll see there are changes.
+
+<img align="center" width="450" src="assets/step5_status.png" alt="git status" />
+
+Add those changes to the branch you just created using the `git add` command:
+
+```
+git add first_duty_station.md
+```
+
+Now commit those changes using the `git commit` command:
+
+```
+git commit -m "Add <your-name> to first_duty_station list"
+```
+
+replacing `<your-name>` with your name.
