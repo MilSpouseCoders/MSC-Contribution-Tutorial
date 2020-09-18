@@ -15,7 +15,7 @@ GitHub is an online service that stores code pushed to it from computers that ha
 
 ## Step 2: Download Visual Studio Code
 
-<img style="left"  src="assets/visualstudiocodelogo.png" alt="clone this repository" width="100" />
+<img style="left"  src="assets/visualstudiocodelogo.png" alt="clone this repository" width="200" />
 
 -   There are many code/text edititors and IDE's (integrated development environment) out there, but for this project and others we are recommending you download [Visual Studio Code](https://code.visualstudio.com/download).
 -   Why are we asking you to do this? Well, if you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it and **skip this step**.
