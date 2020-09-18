@@ -15,7 +15,7 @@ GitHub is an online service that stores code pushed to it from computers that ha
 
 ## Step 2: Download Visual Studio Code
 
-<img style="left"  src="assets/visualstudiocodelogo.png" alt="clone this repository" width="300" />
+<img style="left"  src="assets/visualstudiocodelogo.png" alt="clone this repository" width="100" />
 
 -   There are many code/text edititors and IDE's (integrated development environment) out there, but for this project and others we are recommending you download [Visual Studio Code](https://code.visualstudio.com/download).
 -   Why are we asking you to do this? Well, if you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it and **skip this step**.
@@ -23,7 +23,7 @@ GitHub is an online service that stores code pushed to it from computers that ha
 
 ## Step 3: Set up Git on your personal computer
 
-<img style="left"  src="assets/Command_Prompt.png" alt="clone this repository" width="300" />
+<img style="left"  src="assets/Command_Prompt.png" alt="clone this repository" width="100" />
 
 -   Here is where things might start to get overwhelming, but we're letting you know that it's ok, we got you. (Cause' MilSpouses stick together, HOOAH!) If you have any questions at all, contact us or make a post on the MilSpouse Coders Study Group page.
 -   The easiest way to set things up is through the command line interface. Don't let that scare you, we promise it will become your best friend. Check out [CodeCademy's](https://www.codecademy.com/articles/git-setup) instructions on how to set up Git on your personal machine.
