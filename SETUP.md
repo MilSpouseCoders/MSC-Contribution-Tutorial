@@ -28,15 +28,15 @@ There are many code/text edititors and IDE's (integrated development environment
 
 ## Step 3: Set up Git within VSC
 
-<img style="left"  src="assets/Command_Prompt.png" alt="clone this repository" width="100" />
-
 Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using for set up.
 
 Here are 3 different ways to open the integrated terminal:
 
-- Click on the **_square button with the less than arrow inside_**. 
-- At the top of the IDE click **_Terminal -> New Terminal_**. 
-- Type **_ctrl \`_**.
+- Click on the **_square button with the less than arrow inside_**.
+<img style="left"  src="assets/vsc_terminal1.png" alt="clone this repository" width="100" />
+- At the top of the IDE click **_Terminal -> New Terminal_**.
+<img style="left"  src="assets/vsc_terminal2.png" alt="clone this repository" width="100" />
+- Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
 
 
