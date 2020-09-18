@@ -30,11 +30,13 @@ There are many code/text edititors and IDE's (integrated development environment
 
 Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using for set up.
 
-Here are 3 different ways to open the integrated terminal:
+### Here are 3 different ways to open the integrated terminal:
 
-- Click on the **_square button with the less than arrow inside_**. <img style="right"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
+- Click on the **_square button with the less than arrow inside_**. 
+<img style="right"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
 
-- At the top of the IDE click **_Terminal -> New Terminal_**. <img style="right"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
+- At the top of the IDE click **_Terminal -> New Terminal_**.
+<img style="right"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
 
 - Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
