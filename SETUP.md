@@ -18,11 +18,11 @@ GitHub is an online service that stores code pushed to it from computers that ha
 <img style="left"  src="assets/visualstudiocodelogo.png" alt="clone this repository" width="200" />
 
 **At this point if you have Git setup and you'd prefer to use a different editor (other than Visual Studio Code), you can use the either of the instructions below to contribute to our repository.** 
-- For instructions on how to contribute via the Command Line, please go [here](command-line-tutorial.md). 
-- For instructions on how to contribute via GitHub Desktop, please go [here](github-desktop-tutorial.md).
+- For instructions on how to contribute via the **Command Line**, please go [here](command-line-tutorial.md). 
+- For instructions on how to contribute via **GitHub Desktop**, please go [here](github-desktop-tutorial.md).
 
 There are many code/text edititors and IDE's (integrated development environment) out there, but for this project and others we are recommending you download [Visual Studio Code](https://code.visualstudio.com/download).
--   Why are we asking you to do this? If you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it and **skip this step**.
+-   Why are we asking you to do this? If you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it!
 
 
 ## Step 3: Set up Git
