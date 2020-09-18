@@ -152,9 +152,7 @@ git add first_duty_station.md
 
 Now it's time to commit those changes using the `git commit` command:
 
-```git commit -m "Add <your-name> to first_duty_station list"
-
-```
+```git commit -m "Add <your-name> to first_duty_station list"```
 
 replacing `<your-name>` with your name. The "-m" stands for message and the text in the quotes is the message. These messages are important, so always make sure you write thoughtful and consice messages about the changes you made to a file.
 
