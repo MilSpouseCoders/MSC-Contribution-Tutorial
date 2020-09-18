@@ -28,7 +28,7 @@ There are many code/text edititors and IDE's (integrated development environment
 
 ## Step 3: Set up Git within VSC
 
-Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using for set up.
+Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using for setup.
 
 ### Here are 3 different ways to open the integrated terminal:
 
