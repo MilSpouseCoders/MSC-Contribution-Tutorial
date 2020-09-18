@@ -32,7 +32,7 @@ There are many code/text edititors and IDE's (integrated development environment
 
 Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using for set up.
 
-With VSC open, click on the square button with the less than arrow inside. That icon will open up the integrated terminal on the lower half of the window.You can also go to the selections a the top of the screen and click _Terminal -> New Terminal_.
+With VSC open, click on the _square button with the less than arrow inside_. That icon will open up the integrated terminal on the lower half of the window.You can also go to the selections a the top of the screen and click _Terminal -> New Terminal_. You can also type _ctrl \`_ to open the terminal as well.
 
 
 
