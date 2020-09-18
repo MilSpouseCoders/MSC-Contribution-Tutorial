@@ -51,10 +51,12 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 ### Here are 3 different ways to open the integrated terminal:
 
 -   Click on the **_square button with the less than arrow inside_**.
-    <img style="right"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
+
+    <img style="left"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
 
 -   At the top of the IDE click **_Terminal -> New Terminal_**.
-    <img style="right"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
+
+    <img style="left"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
 
 -   Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
@@ -133,11 +135,13 @@ Now double click on the `first_duty_station.md` file to open it up in VSC. There
 
 <img align="left" width="300" src="assets/vsc_step7_1.png" alt="git status" />
 
+<img align="left" width="300" src="assets/vsc_step7_2.png" alt="git status" />
+
 Make your addition to the file and **be sure to save it!** After you save the file you will see that the file itself in the file Explorer has changed colors.
 
 In the integrated terminal, the command `git status`, you'll see there are changes.
 
-<img align="center" width="450" src="assets/step5_status.png" alt="git status" />
+<img align="left" width="450" src="assets/step5_status.png" alt="git status" />
 
 It says there are "changes not staged to commit" and to use "git add <file>" to update what will be committed. So lets do that!
 
