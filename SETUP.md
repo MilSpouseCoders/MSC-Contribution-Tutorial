@@ -45,7 +45,7 @@ For example:
 
 ## Step 4: VSC Integrated Terminal
 
-Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using when we run git commands.
+Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using when sending our code to GitHub.
 
 ### Here are 3 different ways to open the integrated terminal:
 
@@ -57,9 +57,39 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 - Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
+### Practice:
+ Since you should now have Git installed on your machine, run the ```git --version``` command in your terminal. It should return the version installed. If you get a version number returned, then good job!
 
-## Step 4: 
+## Step 4: Fork the Hackathon_2020 repository
 
-## Step 5: 
+Fork this repository by clicking on the **fork** button on the top right of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020).
+
+This will create a copy of this repository in your personal GitHub account that you can now work with. There are open source repositories all over the place, this allows people to collaborate on programs and projects. So if you find other repositories you like, fork those and take a look at the code! The next step will tell you how to download that code onto your own machine so you can run the programs yourself.
+
+## Step 5: Clone the Hackathon_2020 repository to your machine
+
+Go to your *personal* GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
+
+<img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" />
+
+Click the _copy to clipboard_ icon or highlight and copy the listed url.
+
+<img width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
+
+In the Visual Studio Code integrated terminal run the following git command:
+
+```
+git clone "url you just copied"
+```
+
+where "url you just copied" (without the quotation marks) is the url to your forked repository. 
+
+For example:
+
+```
+git clone https://github.com/this-is-you/hacktoberfest_2020.git
+```
+
+where `this-is-you` is your GitHub username. Here you're copying the contents of the hacktoberfest_2020 repository on GitHub to your computer.
 
 ## Step 6:
