@@ -133,14 +133,11 @@ A list of the branches you currently have should appear. To exit out of the bran
 
 Now double click on the `first_duty_station.md` file to open it up in VSC. 
 
-<img align="left" width="200" src="assets/vsc_step7_1.png" alt="git status" />
-
+<img align="center" width="200" src="assets/vsc_step7_1.png" alt="git status" />
 
 There are instructions at the top of the file on what you need to do. Make your addition to the file and **be sure to save it!** After you save the file you will see that the file itself in the file Explorer has changed colors.
 
-
-<img align="left" width="600" src="assets/vsc_step7_2.png" alt="git status" />
-
+<img align="center" width="600" src="assets/vsc_step7_2.png" alt="git status" />
 
 In the integrated terminal, type the command `git status`, you'll see there are changes.
 
