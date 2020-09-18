@@ -17,13 +17,14 @@ GitHub is an online service that stores code pushed to it from computers that ha
 
 <img style="left"  src="assets/visualstudiocodelogo.png" alt="clone this repository" width="200" />
 
-**At this point if you have Git setup and you'd prefer to use a different editor (other than Visual Studio Code), you can use the either of the instructions below to contribute to our repository.** 
-- For instructions on how to contribute via the **Command Line**, please go [here](command-line-tutorial.md). 
-- For instructions on how to contribute via **GitHub Desktop**, please go [here](github-desktop-tutorial.md).
+**At this point if you have Git setup and you'd prefer to use a different editor (other than Visual Studio Code), you can use the either of the instructions below to contribute to our repository.**
+
+-   For instructions on how to contribute via the **Command Line**, please go [here](command-line-tutorial.md).
+-   For instructions on how to contribute via **GitHub Desktop**, please go [here](github-desktop-tutorial.md).
 
 There are many code/text edititors and IDE's (integrated development environment) out there, but for this project and others we are recommending you download [Visual Studio Code](https://code.visualstudio.com/download).
--   Why are we asking you to do this? If you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it!
 
+-   Why are we asking you to do this? If you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it!
 
 ## Step 3: Set up Git
 
@@ -33,15 +34,15 @@ CodeCademy has basic installation instructions on their website [here](https://w
 
 If you aren't sure if you have Git, run the following command in the Terminal (Mac) or Command Prompt (Windows):
 
-```git --version```
+`git --version`
 
-This command will check your machine to see if you have Git installed and if you do, what version you're running. 
+This command will check your machine to see if you have Git installed and if you do, what version you're running.
 
 If you already have git, the command line will return the version number.
 
 _For example:_
 
-```git version 2.23.0```
+`git version 2.23.0`
 
 ## Step 4: VSC Integrated Terminal
 
@@ -49,15 +50,15 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 ### Here are 3 different ways to open the integrated terminal:
 
-- Click on the **_square button with the less than arrow inside_**. 
-<img style="right"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
+-   Click on the **_square button with the less than arrow inside_**.
+    <img style="right"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
 
-- At the top of the IDE click **_Terminal -> New Terminal_**.
-<img style="right"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
+-   At the top of the IDE click **_Terminal -> New Terminal_**.
+    <img style="right"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
 
-- Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
+-   Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
-Since you should now have Git installed on your machine, run the ```git --version``` command in your VSC terminal. It should return the version installed. If you get a version number returned, then good job!
+Since you should now have Git installed on your machine, run the `git --version` command in your VSC terminal. It should return the version installed. If you get a version number returned, then good job!
 
 ## Step 4: Fork the Hackathon_2020 repository
 
@@ -69,7 +70,7 @@ This will create a copy of this repository in your personal GitHub account that 
 
 ## Step 5: Clone the Hackathon_2020 repository to your machine
 
-Go to your *personal* GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
+Go to your _personal_ GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
 
 < src="assets/step3_code.png" alt="clone this repository" width="300" />
 
@@ -83,7 +84,7 @@ Click the _copy to clipboard_ icon or highlight and copy the listed url.
 git clone "url you just copied"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to your forked repository. 
+where "url you just copied" (without the quotation marks) is the url to your forked repository.
 
 _For example:_
 
@@ -99,6 +100,8 @@ As soon as the cloning process is finished, you the cloned files should be avail
 
 Click the arrow to the left of _Hacktoberfest_2020_ to look at the files. You have successfully cloned a repo to your machine!
 
+**SET ORIGIN!**
+
 ## Step 6: Create a Branch
 
 Before you do anything else, you're going to create a branch for you to work on. This way, you're not working on the master branch.
@@ -109,14 +112,16 @@ In the VSC integrated terminal, create a branch using the `git checkout` command
 git checkout -b <add-your-new-branch-name>
 ```
 
-<img style="left" img width="300" src="assets/vsc_step6_1.png" alt="checkout branch" />
+<img style="left" img width="600" src="assets/vsc_step6_1.png" alt="checkout branch" />
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-This will automatically move you to your new branch. You're checking out the new branch you created! 
-You should now have 2 branches: a master branch and the branch you just created. To check type:
+This will automatically move you to your new branch. You're checking out the new branch you created!
+You should now have 2 branches: a master branch and the branch you just created.
 
-```git branch```
+To check type:
+
+`git branch`
 
 <img style="left" img width="300" src="assets/vsc_step6_2.png" alt="checkout branch" />
 
@@ -126,22 +131,65 @@ A list of the branches you currently have should appear. To exit out of the bran
 
 Now double click on the `first_duty_station.md` file to open it up in VSC. There are instructions at the top of the file on what you need to do.
 
-**Be sure to save the file.**
+<img align="left" width="300" src="assets/vsc_step7_1.png" alt="git status" />
 
-In the integrated terminal, the command ```git status```, you'll see there are changes.
+Make your addition to the file and **be sure to save it!** After you save the file you will see that the file itself in the file Explorer has changed colors.
+
+In the integrated terminal, the command `git status`, you'll see there are changes.
 
 <img align="center" width="450" src="assets/step5_status.png" alt="git status" />
 
-Add those changes to the branch you just created using the `git add` command:
+It says there are "changes not staged to commit" and to use "git add <file>" to update what will be committed. So lets do that!
+
+To stage those changes to the branch you created, use the `git add` command:
 
 ```
 git add first_duty_station.md
 ```
 
-Now commit those changes using the `git commit` command:
+Now it's time to commit those changes using the `git commit` command:
+
+```git commit -m "Add <your-name> to first_duty_station list"
 
 ```
-git commit -m "Add <your-name> to first_duty_station list"
+
+replacing `<your-name>` with your name. The "-m" stands for message and the text in the quotes is the message. These messages are important, so always make sure you write thoughtful and consice messages about the changes you made to a file.
+
+## Step 7: Push your changes to your GitHub
+
+Now, you have to send the changes you made to your personal GitHub account.
+
+Push your changes using the command `git push`:
+
+```
+git push origin <add-your-branch-name>
 ```
 
-replacing `<your-name>` with your name.
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+
+## Step 8: Submit your changes for review
+
+Now the goal is to get your changes added to the original repository that is maintained by someone else.
+
+To do that go to your personal GitHub account, click _repositories_, and select the repository you're working with. You'll see a `Pull Request` tab at the top.
+
+<img style="float: right;" src="assets/step7_pullrequest1.png" alt="create a pull request" width=600/>
+
+Click on that tab and then click the green _Create Pull Request_ button.
+
+<img style="float: right;" src="assets/step7_pullrequest.png" alt="create a pull request" width=600/>
+
+Make sure it has a subject typed in and add any comments if necessary. Click _Create Pull Request_ one more time.
+
+<img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" width=600/>
+
+That's it!
+Soon we'll be merging all your changes into the master branch of this project. You will get a email notification once the changes have been merged.
+
+## Where to go from here?
+
+Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+
+## Additional info:
+
+[More info on git installation and setup](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
