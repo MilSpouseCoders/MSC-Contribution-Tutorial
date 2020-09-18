@@ -57,12 +57,12 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 - Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
-### Practice:
+#### Practice:
  Since you should now have Git installed on your machine, run the ```git --version``` command in your terminal. It should return the version installed. If you get a version number returned, then good job!
 
 ## Step 4: Fork the Hackathon_2020 repository
 
-Fork this repository by clicking on the **fork** button on the top right of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020).
+Now that you have everything installed, head to your favorite web browser and fork a copy of this repository by clicking on the **fork** button on the top right of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020). (You should be logged into your GitHub account.)
 
 <img style="left" src="assets/step2_fork.png" alt="step 2" width="300">
 
