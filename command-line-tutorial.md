@@ -16,7 +16,7 @@ This will create a copy of this repository in your personal GitHub account.
 
 ## 3. Clone the repository
 
-Go to your personal GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
+Go to your *personal* GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
 
 <img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" />
 
@@ -62,11 +62,11 @@ git checkout -b add-jane-smith
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-## 5. Make necessary changes and commit those changes
+## 5. Make necessary changes and Commit those changes
 
 Now open `first_duty_station.md` file in a text editor, and follow the instructions on what to do. 
 
-*Be sure to save the file.*
+**Be sure to save the file.**
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
