@@ -17,8 +17,7 @@ GitHub is an online service that stores code pushed to it from computers that ha
 
 <img style="left"  src="assets/visualstudiocodelogo.png" alt="clone this repository" width="200" />
 
-
-**At this point if you have Git setup and you'd prefer to use a different editor (other than Visual Studio Code), this is where you will leave this file.** 
+**At this point if you have Git setup and you'd prefer to use a different editor (other than Visual Studio Code), you can use the either of the instructions below to contribute to our repository.** 
 - For instructions on how to contribute via the Command Line, please go [here](command-line-tutorial.md). 
 - For instructions on how to contribute via GitHub Desktop, please go [here](github-desktop-tutorial.md).
 
@@ -32,7 +31,8 @@ To install git, go to the official [Git website](https://git-scm.com/downloads) 
 
 CodeCademy has basic installation instructions on their website [here](https://www.codecademy.com/articles/git-setup). This article has instructions for both Windows and Mac.
 
-If you aren't sure if you have Git, run the following command in the Terminal (Mac) or Command Prompt (Windows): 
+If you aren't sure if you have Git, run the following command in the Terminal (Mac) or Command Prompt (Windows):
+
 ```git --version```
 
 This command will check your machine to see if you have Git installed and if you do, what version you're running. 
