@@ -39,7 +39,7 @@ This command will check your machine to see if you have Git installed and if you
 
 If you already have git, the command line will return the version number.
 
-For example:
+_For example:_
 
 ```git version 2.23.0```
 
@@ -57,8 +57,7 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 - Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
-#### Practice:
- Since you should now have Git installed on your machine, run the ```git --version``` command in your terminal. It should return the version installed. If you get a version number returned, then good job!
+Since you should now have Git installed on your machine, run the ```git --version``` command in your VSC terminal. It should return the version installed. If you get a version number returned, then good job!
 
 ## Step 4: Fork the Hackathon_2020 repository
 
@@ -78,7 +77,7 @@ Click the _copy to clipboard_ icon or highlight and copy the listed url.
 
 <img width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
 
-In the Visual Studio Code integrated terminal run the following git command:
+**In the Visual Studio Code integrated terminal run the following git command:**
 
 ```
 git clone "url you just copied"
@@ -86,7 +85,7 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to your forked repository. 
 
-For example:
+_For example:_
 
 ```
 git clone https://github.com/this-is-you/hacktoberfest_2020.git
