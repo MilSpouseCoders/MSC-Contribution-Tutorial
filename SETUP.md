@@ -121,7 +121,7 @@ git checkout -b <add-your-new-branch-name>
 This will automatically move you to your new branch. You're checking out the new branch you created!
 You should now have 2 branches: a master branch and the branch you just created.
 
-To check type:
+To check the branches type:
 
 `git branch`
 
@@ -141,10 +141,9 @@ There are instructions at the top of the file on what you need to do. Make your 
 
 In the integrated terminal, type the command `git status`, you'll see there are changes.
 
-<img align="left" width="450" src="assets/step5_status.png" alt="git status" />
+<img align="center" width="450" src="assets/step5_status.png" alt="git status" />
 
 It says there are "changes not staged to commit" and to use "git add <file>" to update what will be committed. So lets do that!
-
 To stage those changes to the branch you created, use the `git add` command:
 
 ```
