@@ -14,7 +14,7 @@ GitHub is an online service that stores code pushed to it from computers that ha
 ## Step 2: Download Visual Studio Code
 
 -   There are many code/text edititors and IDE's (integrated development environment) out there, but for this project and others we are recommending you download [Visual Studio Code](https://code.visualstudio.com/download).
--   Why are we asking you to do this? Well, if you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it.
+-   Why are we asking you to do this? Well, if you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it and **skip this step**.
 -   There is another platform called Visual Studio, which is an IDE for Windows machines only (sorry Mac users), Visual Studio Code (VSC) is multi-platform. You can download it for your appropriate machine [here](https://code.visualstudio.com/download).
 
 ## Step 3: Set up Git on your personal computer
@@ -28,6 +28,8 @@ GitHub is an online service that stores code pushed to it from computers that ha
 - For instructions on how to contribute via GitHub Desktop, please go [here](github-desktop-tutorial.md).
 
 ## Step 4: Connect your GitHub account to VSC
+Click this [link](https://code.visualstudio.com/docs/editor/github) for instructions on how to connect VSC to your GitHub account.
+
 
 ## Step 5: Clone the Hackathon_2020 Repo
 
