@@ -71,11 +71,11 @@ This will create a copy of this repository in your personal GitHub account that 
 
 Go to your *personal* GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
 
-<img style="left"  src="assets/step3_code.png" alt="clone this repository" width="300" />
+< src="assets/step3_code.png" alt="clone this repository" width="300" />
 
 Click the _copy to clipboard_ icon or highlight and copy the listed url.
 
-<img width="300" src="assets/step4_clone.png" alt="copy URL to clipboard" />
+<img style="left" src="assets/step4_clone.png" alt="copy URL to clipboard" img width="300"  />
 
 **In the Visual Studio Code integrated terminal run the following git command:**
 
@@ -92,5 +92,9 @@ git clone https://github.com/this-is-you/hacktoberfest_2020.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the hacktoberfest_2020 repository on GitHub to your computer.
+
+As soon as the cloning process is finished, you the cloned files should be available to you in Visual Studio Code within the Explorer.
+
+<img style="left" img width="300" src="assets/vsc_step5.png" alt="vsc file explorer" />
 
 ## Step 6:
