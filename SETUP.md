@@ -133,13 +133,13 @@ A list of the branches you currently have should appear. To exit out of the bran
 
 Now double click on the `first_duty_station.md` file to open it up in VSC. There are instructions at the top of the file on what you need to do.
 
-<img align="left" width="300" src="assets/vsc_step7_1.png" alt="git status" />
-
-<img align="left" width="300" src="assets/vsc_step7_2.png" alt="git status" />
+<img align="left" width="200" src="assets/vsc_step7_1.png" alt="git status" />
 
 Make your addition to the file and **be sure to save it!** After you save the file you will see that the file itself in the file Explorer has changed colors.
 
-In the integrated terminal, the command `git status`, you'll see there are changes.
+<img align="left" width="600" src="assets/vsc_step7_2.png" alt="git status" />
+
+In the integrated terminal, type the command `git status`, you'll see there are changes.
 
 <img align="left" width="450" src="assets/step5_status.png" alt="git status" />
 
@@ -159,7 +159,7 @@ Now it's time to commit those changes using the `git commit` command:
 
 replacing `<your-name>` with your name. The "-m" stands for message and the text in the quotes is the message. These messages are important, so always make sure you write thoughtful and consice messages about the changes you made to a file.
 
-## Step 7: Push your changes to your GitHub
+## Step 8: Push your changes to your GitHub
 
 Now, you have to send the changes you made to your personal GitHub account.
 
@@ -171,7 +171,7 @@ git push origin <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-## Step 8: Submit your changes for review
+## Step 9: Submit your changes for review
 
 Now the goal is to get your changes added to the original repository that is maintained by someone else.
 
