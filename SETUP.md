@@ -26,9 +26,26 @@ There are many code/text edititors and IDE's (integrated development environment
 -   Why are we asking you to do this? If you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it and **skip this step**.
 
 
-## Step 3: Set up Git within VSC
+## Step 3: Set up Git
 
-Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using for setup.
+To install git, go to the official [Git website](https://git-scm.com/downloads) with instructions on how to get it on your machine. Installation is different for Mac and Windows, so you'll have to follow the instructions for your operating system.
+
+CodeCademy has basic installation instructions on their website [here](https://www.codecademy.com/articles/git-setup). This article has instructions for both Windows and Mac.
+
+If you aren't sure if you have Git, run the following command in the Terminal (Mac) or Command Prompt (Windows): 
+```git --version```
+
+This command will check your machine to see if you have Git installed and if you do, what version you're running. 
+
+If you already have git, the command line will return the version number.
+
+For example:
+
+```git version 2.23.0```
+
+## Step 4: VSC Integrated Terminal
+
+Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using when we run git commands.
 
 ### Here are 3 different ways to open the integrated terminal:
 
@@ -40,26 +57,9 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 - Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
-### Install Git
 
-In the opened terminal window within VSC, type the following:
+## Step 4: 
 
-```git --version```
-
-This command will check your machine to see if you have Git installed and if you do, what version you're running. 
-
-If you already have git, the command line will return the version number.
-
-For example: 
-```git version 2.23.0```
-
-But if you don't have git, go to the official [Git website](https://git-scm.com/downloads) with instructions on how to get it on your machine. Installation is different for Mac and Windows, so you'll have to follow the instructions for your operating system.
-
-CodeCademy has basic installation instructions on their website [here](https://www.codecademy.com/articles/git-setup). This article has instructions for both Windows and Mac.
-
-## Step 4: Connect your GitHub account to VSC
-
-
-## Step 5: Clone the Hackathon_2020 Repo
+## Step 5: 
 
 ## Step 6:
