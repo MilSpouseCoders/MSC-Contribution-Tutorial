@@ -33,9 +33,9 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 Here are 3 different ways to open the integrated terminal:
 
 - Click on the **_square button with the less than arrow inside_**.
-<img style="left"  src="assets/vsc_terminal1.png" alt="clone this repository" width="100" />
+<img style="right"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
 - At the top of the IDE click **_Terminal -> New Terminal_**.
-<img style="left"  src="assets/vsc_terminal2.png" alt="clone this repository" width="100" />
+<img style="right"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
 - Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
 
