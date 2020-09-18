@@ -40,7 +40,22 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 - Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
+### Install Git
 
+In the opened terminal window within VSC, type the following:
+
+```git --version```
+
+This command will check your machine to see if you have Git installed and if you do, what version you're running. 
+
+If you already have git, the command line will return the version number.
+
+For example: 
+```git version 2.23.0```
+
+But if you don't have git, go to the official [Git website](https://git-scm.com/downloads) with instructions on how to get it on your machine. Installation is different for Mac and Windows, so you'll have to follow the instructions for your operating system.
+
+CodeCademy has basic installation instructions on their website [here](https://www.codecademy.com/articles/git-setup). This article has instructions for both Windows and Mac.
 
 ## Step 4: Connect your GitHub account to VSC
 
