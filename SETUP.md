@@ -50,10 +50,6 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 ### Here are 3 different ways to open the integrated terminal:
 
--   Click on the **_square button with the less than arrow inside_**.
-
-    <img style="left"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
-
 -   At the top of the IDE click **_Terminal -> New Terminal_**.
 
     <img style="left"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
@@ -61,6 +57,8 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 -   Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
 Since you should now have Git installed on your machine, run the `git --version` command in your VSC terminal. It should return the version installed. If you get a version number returned, then good job!
+
+- There are Terminal extensions you can install that will give you more functionality as well! [This one here works great!](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 ## Step 4: Fork the Hackathon_2020 repository
 
