@@ -102,6 +102,8 @@ Click the arrow to the left of _Hacktoberfest_2020_ to look at the files. You ha
 
 ## Step 6: Set the Origin and create a Branch
 
+#### Check the Origin
+
 When you send your file changes from your local computer to your personal GitHub you have to make sure your computer knows where to send it. In Git, that's called setting the "origin". The "origin" is a shorthand name for the remote repository that a project was originally cloned from (which was done in step #5). 
 
 First, run the command ```git remote -v``` to check if the origin is set.
@@ -120,6 +122,8 @@ If the origin is not set at this point, go to your copy of the repo on your pers
 ```git remote add origin <url you copied>```
 
 Now, run ```git remote -v``` again to check the origin.
+
+#### Create a Branch
 
 Next, you're going to create a branch for you to work on. This way, you're not working on the master branch.
 
