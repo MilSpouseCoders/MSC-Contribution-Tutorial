@@ -9,7 +9,7 @@
 # About this Repo
 
 This repo is geared toward first time contributors. There is no coding involved, only adding to a text file.
-In this repo will guide beginners on how to setup their personal machines with Git and how to commit changes to an open source repository.
+This repo will guide beginners on how to setup their personal machines with Git and how to contribute changes to an open source repository.
 
 # Who is it geared toward?
 
