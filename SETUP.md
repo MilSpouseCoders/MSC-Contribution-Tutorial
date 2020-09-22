@@ -68,7 +68,9 @@ This will create a copy of this repository in your personal GitHub account that 
 
 ## Step 5: Clone the Hackathon_2020 repository to your machine
 
-Go to your _personal_ GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
+Go to your _personal_ GitHub account and click on the forked copy of the repository that should now be listed. \**Important: If you check the link of the page you are on, it should be ```https<nolink>://github.com/<your-github-handle>/Hacktoberfest_2020```. In this style of contribution, we fork from the main repository, and clone (copy the code) to our computer from our personal fork.
+
+Click on the green **Code** button.
 
 <img style="left" src="assets/step3_code.png" alt="clone this repository" width="300" />
 
@@ -79,20 +81,20 @@ Click the _copy to clipboard_ icon or highlight and copy the listed url.
 **In the Visual Studio Code integrated terminal run the following git command:**
 
 ```
-git clone "url you just copied"
+git clone <url you just copied>
 ```
 
-where "url you just copied" (without the quotation marks) is the url to your forked repository.
+**Note: Don't type the brackets--this is just a way to show that you're supposed to replace that phrase with something, and give a hint as to what goes there; in this case you will paste the URL you just copied from your GitHub account.**
 
 _For example:_
 
 ```
-git clone https://github.com/this-is-you/hacktoberfest_2020.git
+git clone https://github.com/your-github-handle/hacktoberfest_2020.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the hacktoberfest_2020 repository on GitHub to your computer.
+where `your-github-handle` is your GitHub username. In this step you're copying the contents of the hacktoberfest_2020 repository on GitHub to your computer.
 
-As soon as the cloning process is finished, you the cloned files should be available to you in Visual Studio Code within the Explorer.
+As soon as the cloning process is finished, the cloned files should be available to you in Visual Studio Code within the Explorer:
 
 <img style="left" img width="300" src="assets/vsc_step5.png" alt="vsc file explorer" />
 
@@ -102,17 +104,19 @@ Click the arrow to the left of _Hacktoberfest_2020_ to look at the files. You ha
 
 #### Check the Origin
 
-When you send your file changes from your local computer to your personal GitHub you have to make sure your computer knows where to send it. In Git, that's called setting the "origin". The "origin" is a shorthand name for the remote repository that a project was originally cloned from (which was done in step #5). 
+When you send your file changes from your local computer to your personal GitHub you have to make sure your computer knows where to send the changes. In Git, that's called setting the "origin". The "origin" is a shorthand name for the default remote repository.  In our case, this should be the repository the project was originally cloned from (which was done in step #5). But we will check just to make sure.
 
 First, run the command ```git remote -v``` to check if the origin is set.
 
-Because you cloned the repo in step 5, the location of the clone should be set.
+Because you cloned the repo from GitHub in step 5, the location of the clone should be set.
 
-For example:
+Hopefully your output from running ```git remote -v``` looks like this (don't worry about the upstream lines for now):
 
 ```
-origin https://github.com/your-account-name/Hacktoberfest_2020.git (fetch)
-origin https://github.com/your-account-name/Hacktoberfest_2020.git (pull)   
+origin https://github.com/your-github-handle/Hacktoberfest_2020.git (fetch)
+origin https://github.com/your-github-handle/Hacktoberfest_2020.git (pull) 
+upstream        https://github.com/MilSpouseCoders/Hacktoberfest_2020.git (fetch)
+upstream        https://github.com/MilSpouseCoders/Hacktoberfest_2020.git (push)  
 ```
 
 If the origin is not set at this point, go to your copy of the repo on your personal GitHub page and click the green **Code** button and copy the URL. Then in the integrated terminal type:
@@ -125,7 +129,7 @@ Now, run ```git remote -v``` again to check the origin.
 
 Next, you're going to create a branch for you to work on. This way, you're not working on the master branch.
 
-In the VSC integrated terminal, create a branch using the `git checkout` command:
+In the Visual Studio Code integrated terminal, create a branch using the `git checkout` command:
 
 ```
 git checkout -b <add-your-new-branch-name>
@@ -135,7 +139,7 @@ git checkout -b <add-your-new-branch-name>
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
-This will automatically move you to your new branch. You're checking out the new branch you created!
+This will create a new branch and automatically move you to your new branch. You're checking out the new branch you created!
 You should now have 2 branches: a master branch and the branch you just created.
 
 To check the branches type:
@@ -144,7 +148,7 @@ To check the branches type:
 
 <img style="left" img width="300" src="assets/vsc_step6_2.png" alt="checkout branch" />
 
-A list of the branches you currently have should appear. To exit out of the branch list, hit the **"q"** on your keyboard. That will "quit" you from the window and take you back to the terminal.
+A list of the branches you currently have should appear. If you are not automatically directed back to the terminal prompt, hit the **"q"** on your keyboard to exit out of the branch list. That will "quit" you from the window and take you back to the terminal.
 
 ## Step 7: Make the necessary changes and Commit those changes
 
@@ -167,11 +171,11 @@ To stage those changes to the branch you created, use the `git add` command:
 git add first_duty_station.md
 ```
 
-Now it's time to commit those changes using the `git commit` command:
+Now it's time to commit (save) those changes using the `git commit` command:
 
-```git commit -m "Add <your-name> to first_duty_station list"```
+```git commit -m "Add <your-github-handle> to first_duty_station list"```
 
-replacing `<your-name>` with your name. The "-m" stands for message and the text in the quotes is the message. These messages are important, so always make sure you write thoughtful and consice messages about the changes you made to a file.
+replacing `<your-github-handle>` with your github username. The "-m" stands for message and the text in the quotes is the message. These messages are important, so always make sure you write thoughtful and concise messages about the changes you made to a file.
 
 ## Step 8: Push your changes to your GitHub
 
@@ -202,7 +206,7 @@ Make sure it has a subject typed in and add any comments if necessary. Click _Cr
 <img style="float: right;" src="assets/step7_pullrequest2.png" alt="submit pull request" width=600/>
 
 That's it!
-Soon we'll be merging all your changes into the master branch of this project. You will get a email notification once the changes have been merged.
+Soon we'll be merging all your changes into the master branch of this project. You will get an email notification once the changes have been merged.
 
 ### Delete your Branch
 You can now delete the branch you made on your local machine.
