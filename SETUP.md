@@ -2,13 +2,13 @@
 
 Here you will find instructions on what software and tools you will need to install on your personal machine in order to contribute to our repositories.
 
-There are many code editors and several ways of contributing to GitHub.  We will show you one way, but in the future you may find a way that you like better. That's perfectly fine -- contributing and working together is the end goal! For our projects here we are going to have a specific set of instructions for _beginners_ to follow. That way, if you have any questions about the process along the way, we can help you with that specific step more easily.
+There are many code editors and several ways of contributing to GitHub.  We will show you one way, but in the future you may find a way that you like better. That's perfectly fine -- contributing and working together is the end goal! For our project here we are going to have a specific set of instructions for _beginners_ to follow. That way, if you have any questions about the process along the way, we can help you with that specific step more easily.
 
 ## Step 1: Create a GitHub account
 
 <img alt="GitHub" src="https://desktop.github.com/images/desktop-icon.svg" width="100">
 
-GitHub is an online service that stores code pushed to it from computers that have Git installed. Git is a version-control system for tracking changes in source code. It shows what changed, what it was previously, who changed it, when it was changed, and why it was changed (because when we _commit_ (a fancy word for save) the changes, we write messages to explain the change). Git is a programmer's best friend!
+GitHub is an online service that stores code pushed to it from computers that have Git installed. Git is a version-control system for tracking changes in source code. It keeps track of what changed, what it was previously, who changed it, when it was changed, and why it was changed (because when we _commit_ (a fancy word for save) the changes, we write messages to explain the change). Git is a programmer's best friend!
 
 -   If you don't have one, go to [GitHub](https://github.com/) and create your free account.
 -   Think for a bit about your GitHub username (handle) -- you will likely not want to change it in the future, and you will probably want to include a link to your profile on your resume.  
@@ -58,7 +58,7 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 Since you should now have Git installed on your machine, run the `git --version` command in your VSC terminal. It should return the version installed. If you get a version number returned, then good job!
 
-## Step 4: Fork the Hackathon_2020 repository
+## Step 5: Fork the Hackathon_2020 repository
 
 Now that you have everything installed, head to your favorite web browser and fork a copy of this repository by clicking on the **fork** button on the top right of the main page of the repository [here](https://github.com/MilSpouseCoders/Hacktoberfest_2020). (You should be logged into your GitHub account.)
 
@@ -66,9 +66,9 @@ Now that you have everything installed, head to your favorite web browser and fo
 
 This will create a copy of this repository in your personal GitHub account that you can now work with. There are open source repositories all over the place, this allows people to collaborate on programs and projects. So if you find other repositories you like, fork those and take a look at the code! The next step will tell you how to download that code onto your own machine so you can run the programs yourself.
 
-## Step 5: Clone the Hackathon_2020 repository to your machine
+## Step 6: Clone the Hackathon_2020 repository to your machine
 
-Go to your _personal_ GitHub account and click on the forked copy of the repository that should now be listed. \**Important: If you check the link of the page you are on, it should be ```https<nolink>://github.com/<your-github-handle>/Hacktoberfest_2020```. In this style of contribution, we fork from the main repository, and clone (copy the code) to our computer from our personal fork.
+Go to your _personal_ GitHub account and click on the forked copy of the repository that should now be listed. \**Important: If you check the link of the page you are on, it should be ```https://github.com/<your-github-handle>/Hacktoberfest_2020```. In this style of contribution, we fork from the main repository, and clone (copy the code) to our computer from our personal fork.
 
 Click on the green **Code** button.
 
