@@ -109,8 +109,11 @@ First, run the command ```git remote -v``` to check if the origin is set.
 Because you cloned the repo in step 5, the location of the clone should be set.
 
 For example:
-```origin https://github.com/your-account-name/Hacktoberfest_2020.git (fetch)
-   origin https://github.com/your-account-name/Hacktoberfest_2020.git (pull)   
+
+```
+origin https://github.com/your-account-name/Hacktoberfest_2020.git (fetch)
+origin https://github.com/your-account-name/Hacktoberfest_2020.git (pull)   
+
 ```
 
 If the origin is not set at this point, go to your copy of the repo on your personal GitHub page and click the green **Code** button and copy the URL. Then in the integrated terminal type:
