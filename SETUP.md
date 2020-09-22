@@ -100,7 +100,7 @@ As soon as the cloning process is finished, the cloned files should be available
 
 Click the arrow to the left of _Hacktoberfest_2020_ to look at the files. You have successfully cloned a repo to your machine!
 
-## Step 6: Set the Origin and create a Branch
+## Step 7: Set the Origin and create a Branch
 
 #### Check the Origin
 
@@ -150,7 +150,7 @@ To check the branches type:
 
 A list of the branches you currently have should appear. If you are not automatically directed back to the terminal prompt, hit the **"q"** on your keyboard to exit out of the branch list. That will "quit" you from the window and take you back to the terminal.
 
-## Step 7: Make the necessary changes and Commit those changes
+## Step 8: Make the necessary changes and Commit those changes
 
 Now double click on the `first_duty_station.md` file to open it up in VSC. 
 
@@ -177,7 +177,7 @@ Now it's time to commit (save) those changes using the `git commit` command:
 
 replacing `<your-github-handle>` with your github username. The "-m" stands for message and the text in the quotes is the message. These messages are important, so always make sure you write thoughtful and concise messages about the changes you made to a file.
 
-## Step 8: Push your changes to your GitHub
+## Step 9: Push your changes to your GitHub
 
 Now, you have to send the changes you made to your personal GitHub account.
 
@@ -189,7 +189,7 @@ git push origin <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
-## Step 9: Submit your changes for review
+## Step 10: Submit your changes for review
 
 Now the goal is to get your changes added to the original repository that is maintained by someone else.
 
