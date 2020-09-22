@@ -100,11 +100,26 @@ As soon as the cloning process is finished, you the cloned files should be avail
 
 Click the arrow to the left of _Hacktoberfest_2020_ to look at the files. You have successfully cloned a repo to your machine!
 
-**SET ORIGIN!**
+## Step 6: Set the Origin and create a Branch
 
-## Step 6: Create a Branch
+When you send your file changes from your local computer to your personal GitHub you have to make sure your computer knows where to send it. In Git, that's called setting the "origin". The "origin" is a shorthand name for the remote repository that a project was originally cloned from (which was done in step #5). 
 
-Before you do anything else, you're going to create a branch for you to work on. This way, you're not working on the master branch.
+First, run the command ```git remote -v``` to check if the origin is set.
+
+Because you cloned the repo in step 5, the location of the clone should be set.
+
+For example:
+```origin https://github.com/your-account-name/Hacktoberfest_2020.git (fetch)
+   origin https://github.com/your-account-name/Hacktoberfest_2020.git (pull)   
+```
+
+If the origin is not set at this point, go to your copy of the repo on your personal GitHub page and click the green **Code** button and copy the URL. Then in the integrated terminal type:
+
+```git remote add origin <url you copied>```
+
+Now, run ```git remote -v``` again to check the origin.
+
+Next, you're going to create a branch for you to work on. This way, you're not working on the master branch.
 
 In the VSC integrated terminal, create a branch using the `git checkout` command:
 
@@ -135,7 +150,7 @@ Now double click on the `first_duty_station.md` file to open it up in VSC.
 
 There are instructions at the top of the file on what you need to do. Make your addition to the file and **be sure to save it!** After you save the file you will see that the file itself in the file Explorer has changed colors.
 
-<img align="center" width="600" src="assets/vsc_step7_2.png" alt="git status" />
+<img align="center" width="900" src="assets/vsc_step7_2.png" alt="git status" />
 
 In the integrated terminal, type the command `git status`, you'll see there are changes.
 
