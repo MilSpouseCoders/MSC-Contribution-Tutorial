@@ -2,16 +2,16 @@
 
 Here you will find instructions on what software and tools you will need to install on your personal machine in order to contribute to our repositories.
 
-There are multiple ways to contribute to a repo and it's up to you to chose what you're most comfortable with. Don't let anyone tell you that your way is the wrong way, contributing and working together is the end goal, but for our projects here we are going to have a specific set of instructions for _beginners_ to follow. That way, if you have any questions about the process along the way, we can help you with that specific step more easily.
+There are many code editors and several ways of contributing to GitHub.  We will show you one way, but in the future you may find a way that you like better. That's perfectly fine -- contributing and working together is the end goal! For our projects here we are going to have a specific set of instructions for _beginners_ to follow. That way, if you have any questions about the process along the way, we can help you with that specific step more easily.
 
 ## Step 1: Create a GitHub account
 
 <img alt="GitHub" src="https://desktop.github.com/images/desktop-icon.svg" width="100">
 
-GitHub is an online service that stores code pushed to it from computers that have the Git installed. Git is a version-control system for tracking changes in source code. It shows what changed, what it was previously, who changed it, when it was changed, and why it was changed (because when we _commit_ (a fancy word for save) the changes, we write messages to explain the change). Git is a programmers best friend!
+GitHub is an online service that stores code pushed to it from computers that have Git installed. Git is a version-control system for tracking changes in source code. It shows what changed, what it was previously, who changed it, when it was changed, and why it was changed (because when we _commit_ (a fancy word for save) the changes, we write messages to explain the change). Git is a programmer's best friend!
 
 -   If you don't have one, go to [GitHub](https://github.com/) and create your free account.
--   There is a paid version, but if you're just starting out, free is all you need.
+-   Think for a bit about your GitHub username (handle) -- you will likely not want to change it in the future, and you will probably want to include a link to your profile on your resume.  
 
 ## Step 2: Download Visual Studio Code
 
@@ -24,7 +24,7 @@ GitHub is an online service that stores code pushed to it from computers that ha
 
 There are many code/text edititors and IDE's (integrated development environment) out there, but for this project and others we are recommending you download [Visual Studio Code](https://code.visualstudio.com/download).
 
--   Why are we asking you to do this? If you need help with something and you're using an editor we haven't used before, we're not going to be much help. That being said, if you're comfortable using another code editor, by all means, use it!
+-   Why are we asking you to do this? If you need help with something and you're using an editor we haven't used before, it will be harder to help you. That being said, if you're comfortable using another code editor, by all means, use it!
 
 ## Step 3: Set up Git
 
@@ -44,7 +44,7 @@ _For example:_
 
 `git version 2.23.0`
 
-## Step 4: VSC Integrated Terminal
+## Step 4: Visual Studio Code Integrated Terminal
 
 Visual Studio Code has an integrated terminal (like most IDE's) and that's what we will be using when sending our code to GitHub.
 
