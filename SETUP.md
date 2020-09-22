@@ -72,7 +72,7 @@ This will create a copy of this repository in your personal GitHub account that 
 
 Go to your _personal_ GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
 
-< src="assets/step3_code.png" alt="clone this repository" width="300" />
+<img style="left" src="assets/step3_code.png" alt="clone this repository" width="300" />
 
 Click the _copy to clipboard_ icon or highlight and copy the listed url.
 
