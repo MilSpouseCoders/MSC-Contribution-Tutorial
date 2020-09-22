@@ -210,6 +210,22 @@ Soon we'll be merging all your changes into the master branch of this project. Y
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
+You can now delete the branch you made on your local machine.
+
+In VSC within the integrated terminal type ```git branch``` . The branch you have been working on should be highlighted and the list will show the branch "master" as well. Hit "q" to quit. Git will not allow you to delete the branch you are working on, so you have to switch back to the master.
+
+Type:
+
+```git checkout master```
+
+This will switch you back to the master branch. Run ```git branch``` again to make sure the master branch is highlighted now. Then "q" to quit.
+
+To delete the branch you were working on, type:
+
+```git branch -d <branch name>``` (Where the branch name is the name of the branch you created.)
+
+The -d option will delete the branch only if it has already been pushed and merged with the remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet. For example, ```git branch -D <branch name>```.
+
 ## Additional info:
 
 [More info on git installation and setup](https://docs.github.com/en/github/getting-started-with-github/set-up-git)
