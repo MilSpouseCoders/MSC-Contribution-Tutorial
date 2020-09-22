@@ -38,7 +38,7 @@ If you aren't sure if you have Git, run the following command in the Terminal (M
 
 This command will check your machine to see if you have Git installed and if you do, what version you're running.
 
-If you already have git, the command line will return the version number.
+If you already have Git, the command line will return the version number.
 
 _For example:_
 
