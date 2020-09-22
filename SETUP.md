@@ -38,7 +38,7 @@ If you aren't sure if you have Git, run the following command in the Terminal (M
 
 This command will check your machine to see if you have Git installed and if you do, what version you're running.
 
-If you already have git, the command line will return the version number.
+If you already have Git, the command line will return the version number.
 
 _For example:_
 
@@ -50,10 +50,6 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 
 ### Here are 3 different ways to open the integrated terminal:
 
--   Click on the **_square button with the less than arrow inside_**.
-
-    <img style="left"  src="assets/vsc_terminal1.png" alt="clone this repository" width="200" />
-
 -   At the top of the IDE click **_Terminal -> New Terminal_**.
 
     <img style="left"  src="assets/vsc_terminal2.png" alt="clone this repository" width="200" />
@@ -61,6 +57,8 @@ Visual Studio Code has an integrated terminal (like most IDE's) and that's what 
 -   Type **_ctrl \`_** (the back tick button, usually on the key with the ~ (tilde)).
 
 Since you should now have Git installed on your machine, run the `git --version` command in your VSC terminal. It should return the version installed. If you get a version number returned, then good job!
+
+- There are Terminal extensions you can install that will give you more functionality as well! [This one here works great!](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 ## Step 4: Fork the Hackathon_2020 repository
 
@@ -74,7 +72,7 @@ This will create a copy of this repository in your personal GitHub account that 
 
 Go to your _personal_ GitHub account and click on the forked copy of the repository that should now be listed. Click on the green **Code** button.
 
-< src="assets/step3_code.png" alt="clone this repository" width="300" />
+<img style="left" src="assets/step3_code.png" alt="clone this repository" width="300" />
 
 Click the _copy to clipboard_ icon or highlight and copy the listed url.
 
@@ -102,11 +100,32 @@ As soon as the cloning process is finished, you the cloned files should be avail
 
 Click the arrow to the left of _Hacktoberfest_2020_ to look at the files. You have successfully cloned a repo to your machine!
 
-**SET ORIGIN!**
+## Step 6: Set the Origin and create a Branch
 
-## Step 6: Create a Branch
+#### Check the Origin
 
-Before you do anything else, you're going to create a branch for you to work on. This way, you're not working on the master branch.
+When you send your file changes from your local computer to your personal GitHub you have to make sure your computer knows where to send it. In Git, that's called setting the "origin". The "origin" is a shorthand name for the remote repository that a project was originally cloned from (which was done in step #5). 
+
+First, run the command ```git remote -v``` to check if the origin is set.
+
+Because you cloned the repo in step 5, the location of the clone should be set.
+
+For example:
+
+```
+origin https://github.com/your-account-name/Hacktoberfest_2020.git (fetch)
+origin https://github.com/your-account-name/Hacktoberfest_2020.git (pull)   
+```
+
+If the origin is not set at this point, go to your copy of the repo on your personal GitHub page and click the green **Code** button and copy the URL. Then in the integrated terminal type:
+
+```git remote add origin <url you copied>```
+
+Now, run ```git remote -v``` again to check the origin.
+
+#### Create a Branch
+
+Next, you're going to create a branch for you to work on. This way, you're not working on the master branch.
 
 In the VSC integrated terminal, create a branch using the `git checkout` command:
 
@@ -137,7 +156,7 @@ Now double click on the `first_duty_station.md` file to open it up in VSC.
 
 There are instructions at the top of the file on what you need to do. Make your addition to the file and **be sure to save it!** After you save the file you will see that the file itself in the file Explorer has changed colors.
 
-<img align="center" width="600" src="assets/vsc_step7_2.png" alt="git status" />
+<img align="center" width="900" src="assets/vsc_step7_2.png" alt="git status" />
 
 In the integrated terminal, type the command `git status`, you'll see there are changes.
 
@@ -187,9 +206,28 @@ Make sure it has a subject typed in and add any comments if necessary. Click _Cr
 That's it!
 Soon we'll be merging all your changes into the master branch of this project. You will get a email notification once the changes have been merged.
 
+### Delete your Branch
+You can now delete the branch you made on your local machine.
+
+In VSC within the integrated terminal type ```git branch``` . The branch you have been working on should be highlighted and the list will show the branch "master" as well. Hit "q" to quit. Git will not allow you to delete the branch you are working on, so you have to switch back to the master.
+
+Type:
+
+```git checkout master```
+
+This will switch you back to the master branch. Run ```git branch``` again to make sure the master branch is highlighted now. Then "q" to quit.
+
+To delete the branch you were working on, type:
+
+```git branch -d <branch name>``` (Where the branch name is the name of the branch you created.)
+
+The -d option will delete the branch only if it has already been pushed and merged with the remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't been pushed or merged yet. For example, ```git branch -D <branch name>```.
+
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+
+Want to do another one? Check out the [MSC-Coding-Resources](https://github.com/MilSpouseCoders/MSC-Coding-Resources) project!
 
 ## Additional info:
 
