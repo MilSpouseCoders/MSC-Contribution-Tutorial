@@ -20,6 +20,10 @@ This repository is geared toward first time contributors, specifically our MilSp
 -   Beginners: For instructions on how to set things up, please go to our [SETUP](SETUP.md) file.
 -   If your machine is already setup and you're mostly familiar with Git and GitHub, please go directly to our [CONTRIBUTING](CONTRIBUTING.md) file.
 
+# Disclaimer:
+
+This project is a teaching tool and doesn't not qualify for a Hacktoberfest PR.
+
 #
 
 This project was inspired by:
