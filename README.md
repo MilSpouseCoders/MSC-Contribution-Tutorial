@@ -22,7 +22,7 @@ This repository is geared toward first time contributors, specifically our MilSp
 
 # Disclaimer:
 
-This project is a teaching tool and doesn't not qualify for a Hacktoberfest PR.
+_This project is a teaching tool and doesn't not qualify for a Hacktoberfest PR._
 
 #
 
