@@ -9,5 +9,6 @@ _When adding your username and duty station to the list, we ask that you add it 
 -   codercarly - Fort Bragg
 -   toanhtran - San Diego Naval Base
 -   pedroalecrim - Sao Paulo, Brazil
+-   ashleydaffin - Camp Pendleton 
 -   anagosseen - Davis-Monthan
 -   ttran - Sasebo, Japan
