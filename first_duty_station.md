@@ -4,7 +4,7 @@ This is the file you will contribute to! Below you will see a list of user names
 
 _When adding your username and duty station to the list, we ask that you add it somewhere in the middle, not the start or the end. Thank you!_
 
-### NOTE: THIS REPO WILL NOT COUNT TOWARD AN OFFICIAL HACKTOBERFEST PR. CHECK OUT THE [HACKTOBERFEST RULES HERE](https://hacktoberfest.digitalocean.com/details)! IF YOU CHOSE TO CONTRIBUTE TO THIS REPO, REMEMBER THAT IT IS A TEACHING TOOL ONLY AND YOU WILL STILL NEED TO MAKE 4 *QUALITY* PR'S. ###
+#### NOTE: This repo will not count toward an official Hacktoberfest PR. Checkout the [Hacktoberfest Rules here](https://hacktoberfest.digitalocean.com/details)! ####
 
 #
 
