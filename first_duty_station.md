@@ -11,5 +11,6 @@ _When adding your username and duty station to the list, we ask that you add it 
 -   codercarly - Fort Bragg
 -   toanhtran - San Diego Naval Base
 -   ashleydaffin - Camp Pendleton 
+-   rise-erpelding - Hurlburt Field
 -   anagosseen - Davis-Monthan
 -   ttran - Sasebo, Japan
