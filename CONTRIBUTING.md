@@ -1,4 +1,4 @@
-# Contributing to MilSpouseCoders Hacktoberfest_2020
+# How to Contribute
 
 MilSpouse Coders, we’re going to break you into the magic of GitHub and contributing to a repo (repository)! This is a simple project with no coding invloved.
 
