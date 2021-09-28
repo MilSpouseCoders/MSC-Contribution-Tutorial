@@ -4,7 +4,7 @@ MilSpouse Coders, we’re going to break you into the magic of GitHub and contri
 
 **Note: For setup instructions, please see the [SETUP.md](SETUP.md) file.**
 
-1. Fork the Hacktoberfest_2020 repository to your personal GitHub account.
+1. Fork the MSC-Contribution-Tutorial repository to your personal GitHub account.
 2. Clone the repository to your personal computer.
 3. Open the repository in your preferred text editor.
 4. Find the file **first_duty_station.md** and open it.
